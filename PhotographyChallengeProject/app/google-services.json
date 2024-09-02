@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451764688083",
+    "project_id": "photographychallenge-ffe8f",
+    "storage_bucket": "photographychallenge-ffe8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451764688083:android:36c35484cf7e00f2713026",
+        "android_client_info": {
+          "package_name": "com.example.photographychallenge_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJNo7TXZZyYnGj-cjKxDr6jF4jXg9hNwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
